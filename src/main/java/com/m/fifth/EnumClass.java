@@ -8,6 +8,8 @@ public class EnumClass {
             price = 90;
             System.out.println(price);
         }
+
+        // test comment
         Mobile(int i){
             price = i;
         }
