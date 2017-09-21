@@ -25,7 +25,7 @@ public class DuplicatesFromString {
     public static void main(String[] args) {
         DuplicatesFromString ds = new DuplicatesFromString();
 //        System.out.println(ds.removeDuplicateWordsFromList(
-//                Arrays.asList("monu", "sonu", "monu", "tilu", "tolu", "tilu", "ilu")));
+//                Arrays.asList("onu", "sonu", "onu", "tilu", "tolu", "tilu", "ilu")));
         System.out.println(ds.nThHighest(Arrays.asList(1, 2, 3, 4, 5, 0, 10, 45, 100)));
     }
 }
